@@ -9,8 +9,9 @@ h1 {
 ul {
   padding: 10px;
   background: white;
-  border: 1px solid black;
   font-size: 30px;
+  border: 1px solid black;
+  
 }
 p {
   text-align: center;
