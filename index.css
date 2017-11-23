@@ -28,8 +28,8 @@ img {
 body {
   text-align: center;
   background: url("https://thumbs.dreamstime.com/b/healthy-eating-background-studio-photography-different-fruits-vegetables-wooden-table-43160615.jpg");
-    
-color: black;
+  background-size:cover;
+  color: black;
 }
 a {
   color: black;
