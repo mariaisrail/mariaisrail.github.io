@@ -27,7 +27,7 @@ img {
   border: 7px solid white;
   border-radius: 20px;
 }
-body{
+body.index {
 
   background: url("https://thumbs.dreamstime.com/b/healthy-eating-background-studio-photography-different-fruits-vegetables-wooden-table-43160615.jpg");
   background-size:cover;
@@ -37,6 +37,7 @@ text-align: center;
 body.bananenpannenkoeken {
   background: url("https://n6-img-fp.akamaized.net/vrije-photo/donkere-natuurlijke-retro-decoratieve-achtergrond_1253-335.jpg?size=338&ext=jpg")
    background-size:cover;
+}
     a {
   color: black;
 }
