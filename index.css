@@ -13,9 +13,7 @@ ul {
   border: 1px solid black;
   
 }
-p {
-  text-align: center;
-}
+
 li {
   display: inline;
     padding: 0px 70px 0px 70px;
@@ -26,7 +24,7 @@ img {
   border-radius: 20px;
 }
 body {
-  text-align: center;
+
   background: url("https://thumbs.dreamstime.com/b/healthy-eating-background-studio-photography-different-fruits-vegetables-wooden-table-43160615.jpg");
   background-size:cover;
   color: black;
