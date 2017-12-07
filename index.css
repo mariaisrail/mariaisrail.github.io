@@ -27,6 +27,7 @@ img {
   border: 7px solid white;
   border-radius: 20px;
 }
+
 body{
 
   background: url("https://github.com/mariaisrail/mariaisrail.github.io/blob/master/achtergrond2kopie.jpg?raw=true");
@@ -34,13 +35,10 @@ body{
 text-align: center;
 }
 
-
-    a {
+a {
   color: black;
 }
-h1 {
-  font-size: 70px;
-}
+
 
 <head>
 <style>
