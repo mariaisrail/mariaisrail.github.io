@@ -8,7 +8,7 @@ h1 {
 
 ul {
   padding: 15px;
-  background: transbox;
+  background: #00FF00;
   font-size: 20px;
   border: 3px solid white;
   
@@ -42,14 +42,13 @@ a {
 <head>
 <style>
 div.background {
-  background: url(klematis.jpg) repeat;
-  border: 2px solid black;
+  border: 2px solid white;
 }
 
 div.transbox {
   margin: 30px;
   background-color: #ffffff;
-  border: 1px solid black;
+  border: 3px solid white;
   opacity: 0.6;
   filter: alpha(opacity=60);
 }
