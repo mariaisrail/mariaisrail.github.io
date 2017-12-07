@@ -42,18 +42,19 @@ body{
 <style>
 
 div.transbox {
+  margin: 5%;
+  font-weight: bold;
+  color: black;
   margin: 30px;
   background-color: black;
   border: 3px solid black;
   opacity: 0.6;
   filter: alpha(opacity=60);
+  
+  border: 7px solid white;
+  border-radius: 20px;
 }
 
-div.transbox p {
-  margin: 5%;
-  font-weight: bold;
-  color: black;
-}
 
 
 </style>
