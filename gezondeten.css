@@ -4,27 +4,13 @@ h1 {
   color: black;
 
 }
-ul {
-  padding: 10px;
-  background: white;
-  font-size: 20px;
-  border: 1px solid black;
 
-}
 
 p {
  text-align: center;
 }
 
-li {
-  display: inline;
-    padding: 0px 70px 0px 70px;
-}
-img {
-  margin: 10px 0px 0px 0px;
-  border: 7px solid white;
-  border-radius: 20px;
-}
+
 body{
 
   background: url("https://github.com/mariaisrail/mariaisrail.github.io/blob/master/achtergrond2kopie.jpg?raw=true");
@@ -33,34 +19,3 @@ text-align: center;
 }
 
 
-    a {
-  color: black;
-}
-h1 {
-  font-size: 70px;
-}
-
-<head>
-<style>
-div.background {
-  background: url(klematis.jpg) repeat;
-  border: 2px solid black;
-}
-
-div.transbox {
-  margin: 30px;
-  background-color: #ffffff;
-  border: 1px solid black;
-  opacity: 0.6;
-  filter: alpha(opacity=60);
-}
-
-div.transbox p {
-  margin: 5%;
-  font-weight: bold;
-  color: #000000;
-}
-
-
-</style>
-</head>
