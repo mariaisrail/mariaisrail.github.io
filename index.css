@@ -1,3 +1,4 @@
+
 h1 {
   font-size: 70px;
   text-align : center;
@@ -51,6 +52,13 @@ div.transbox {
   opacity: 0.6;
   filter: alpha(opacity=60);
  
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  border-radius: 20px;
 }
 
 </style>
