@@ -14,8 +14,9 @@ ul {
 
 ul li {
   float: left;
-  display: inline;
-	padding: 0px 70px 0px 70px;
+  width: 200px
+  height: 40px
+  background-color: black;	  
 }
 
 h1 {
@@ -26,10 +27,6 @@ h1 {
 
 p {
  text-align: center;
-}
-
-a {
-  color: black;
 }
 
 
