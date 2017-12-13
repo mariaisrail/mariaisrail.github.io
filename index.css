@@ -1,3 +1,5 @@
+
+<style>
 h1 {
   font-size: 70px;
   text-align : center;
@@ -31,7 +33,16 @@ body{
   text-align: center;
 }
 
-
+  div.tekst {
+      background: rgba(0,0,0,0.3);
+      width: 59%;
+      float: left;
+    }
+    div.niks {
+      width:20%;
+      float: left;
+    }
+</style>
 
 
 
