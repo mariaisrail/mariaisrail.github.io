@@ -24,6 +24,9 @@ ul li {
   font-size: 20px;
 }
 
+ul li a { }
+
+
 h1 {
   font-size: 70px;
   text-align : center;
