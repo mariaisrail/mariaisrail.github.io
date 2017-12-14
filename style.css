@@ -16,10 +16,6 @@ ul {
  
 }
 
-li {
-    float: left;
-}
-
 ul li {
   float: left;
   width: 200px
