@@ -4,6 +4,12 @@ body {
   background-size: cover;
 }
 
+header {
+  text-align: center;
+  background: url("nieuweheader.JPG");
+  background-size: cover;
+}
+
 ul {
   padding: 0px;
   margin: 0px;
