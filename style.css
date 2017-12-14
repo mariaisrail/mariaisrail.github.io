@@ -8,7 +8,7 @@ header {
   text-align: center;
   background: url("nieuweheader.JPG");
   background-size: cover;
-  top: 0;
+  top: 0px;
 }
 
 ul {
