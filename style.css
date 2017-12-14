@@ -35,6 +35,8 @@ li a {
   text-decoration: none;
   color: white;
   display: block;
+	padding: 0px 70px 0px 70px;
+
 }
 
 ul li a:hover {
