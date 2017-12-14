@@ -1,22 +1,10 @@
 header{ 
      text-align: center;
-     background: url('');
+     background: url('header.jpg');
      background-size: cover;
      color: #0077FF;
      font-family: sans-serif;
-     border: 7px solid white;
-     border-radius: 20px;
    }
-
-
-
-
-
-
-
-
-
-
 
 body{
   background: url("https://static.pexels.com/photos/164005/pexels-photo-164005.jpeg");
