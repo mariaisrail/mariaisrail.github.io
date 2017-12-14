@@ -5,7 +5,9 @@ body {
 }
 
 header {
-  text-align: center;
+  top: 0px;
+  left: 0px;
+  right: 0px;
   background: url("nieuweheader.JPG");
  
 }
