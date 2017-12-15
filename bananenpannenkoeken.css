@@ -56,3 +56,11 @@ li a {
 ul li a:hover {
   background-color: #111;
 }
+
+ul li ul li {
+  display: none;
+}  
+  
+ul li:hover ul li {
+  display: block;
+} 
