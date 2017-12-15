@@ -1,3 +1,4 @@
+
 body {
   text-align: center;
   background: url("https://static.pexels.com/photos/164005/pexels-photo-164005.jpeg");
@@ -48,4 +49,9 @@ ul li a:hover {
 
 ul li ul li {
   display: none;
+}  
+  
+ul li:hover ul li {
+  display: block;
+} 
 
