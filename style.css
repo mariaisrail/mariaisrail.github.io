@@ -46,5 +46,6 @@ ul li a:hover {
   background-color: #111;
 }
 
-
+ul li ul li {
+  display: none;
 
