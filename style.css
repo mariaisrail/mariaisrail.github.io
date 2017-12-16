@@ -17,6 +17,14 @@ body {
 
 }
 
+#navbar {
+  width:1000px;
+}
+
+navbar>li {
+  width: 166,666667px;
+}
+
 ul {
   padding: 0px;
   margin: 0px;
