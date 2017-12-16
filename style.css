@@ -24,7 +24,21 @@ body {
   float:right;
 }
 
+
+#navbarr {
+  width:1000px;
+  height: 80px;
+  border: 1px solid white;
+  float:right;
+}
+
 navbar>li {
+  width: 166,666667px;
+  list-style: none;
+  float: left;
+}
+
+navbarr>li {
   width: 166,666667px;
   list-style: none;
   float: left;
