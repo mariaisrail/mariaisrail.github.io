@@ -19,12 +19,26 @@ body {
 
 #navbar {
   width:1000px;
+  height: 80px;
+  border: 1px solid white;
+  float:right;
 }
 
 navbar>li {
   width: 166,666667px;
+  list-style: none;
+  float: left;
 }
 
+li>a {
+  display: block;
+  color: white;
+  line-height: 80px;
+  text-align: center;
+  font-family: cursive;
+  font-size: 20px;
+}
+  
 
 
 ul li a:hover {
