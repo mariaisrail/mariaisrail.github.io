@@ -17,14 +17,14 @@ background: skyblue;
   width:1000px;
   height: 80px;
   border: 1px solid white;
-  float:right;
+
 }
 
 
 navbar>li {
   width: 166,666667px;
   list-style: none;
-  float: left;
+
 }
 
 li>a {
@@ -40,6 +40,6 @@ li>a {
 #logo {
   width: 200px;
   height: 80px;
-  float: left;
+
 }
 
