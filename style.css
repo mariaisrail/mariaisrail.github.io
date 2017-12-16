@@ -36,7 +36,9 @@ li>a {
   font-family: cursive;
   font-size: 20px;
   text-decoration: none;
+  padding: 70px 70px 0px 70px; 
 }
+
 
 #logo {
   width: 200px;
@@ -44,6 +46,26 @@ li>a {
   padding-left: 40px;
 
 }
+
+ul { 
+padding: 0px; 
+margin: 0px; 
+list-style: none; 
+overflow: hidden; 
+background-color: #333; 
+list-style-type: none; 
+} 
+
+ ul li { 
+float: left; 
+width: 200px 
+height: 40px 
+opacity: 0.8; 
+line-height: 20px; 
+text-align: center; 
+font-size: 20px; 
+} 
+
 
 ul li a:hover { 
 background-color: #8a8a8a; 
