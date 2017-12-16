@@ -45,3 +45,15 @@ li>a {
 
 }
 
+ul li a:hover { 
+background-color: #8a8a8a; 
+} 
+
+ul li ul li { 
+display: none; 
+}   
+
+ul li:hover ul { 
+display: block; 
+}  
+
