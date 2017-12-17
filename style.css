@@ -61,16 +61,10 @@ ul li:hover ul li {
 
     div.tekst {
       background: rgba(0,0,0,0.3);
-      width: 59%;
-  
-        padding-left: 60px;
-       
+      width: 59%;    
     }
     div.niks {
-      width:20%;
-     
-        padding-left: 60px;
-      
+      width:20%;   
     }
 
 
