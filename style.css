@@ -63,12 +63,14 @@ ul li:hover ul li {
       background: rgba(0,0,0,0.3);
       width: 59%;
       float: left;
-        position: absolute;
+        padding-left: 100px;
+       
     }
     div.niks {
       width:20%;
       float: left;
-        position: absolute;
+        padding-left: 100px;
+      
     }
 
 
