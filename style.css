@@ -16,7 +16,7 @@ ul {
   margin: 0px;
   list-style: none;
   overflow: hidden;
-  background-color: #333;
+  background-color: white;
   list-style-type: none;
   background: url('nieuwsteheader.JPG' );
   background-size: cover;
@@ -39,7 +39,7 @@ ul li {
 
 li a {
   text-decoration: none;
-  color: white;
+  color: black;
   display: block;
   padding: 70px 70px 0px 70px;
    display: inline-block;
@@ -47,7 +47,7 @@ li a {
 }
 
 ul li a:hover {
-  background-color: #111;
+  background-color: #696969;
 }
 
 ul li ul li {
