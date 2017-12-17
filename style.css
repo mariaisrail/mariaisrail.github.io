@@ -58,13 +58,13 @@ ul li ul li {
 ul li:hover ul li {
   display: block;
 } 
-    div.tekst {
+    div.text {
       background: rgba(0,0,0,0.3);
       width: 59%;
       float: left;
     }
 
-    div.niks {
+    div.box {
       width:20%;
       float: left;
 }
