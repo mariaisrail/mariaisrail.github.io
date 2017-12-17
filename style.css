@@ -15,6 +15,7 @@ background-size: cover;
   width: 200px;
   height: 40px;
   padding-left: 40px;
+  line-height: 41px;
 
 }
 
@@ -36,7 +37,7 @@ ul li {
   height: 40px
   background-color: black;
   opacity: .8;
-  line-height: 40px;
+  line-height: 0px;
   text-align: center;
   font-size: 20px;
   padding-left: 40px;
