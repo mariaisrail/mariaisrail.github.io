@@ -19,30 +19,6 @@ background-size: cover;
   overflow: hidden; 
 }
 
-#navbar {
-  width:1000px;
-  height: 80px;
-  border: 1px solid white;
-
-}
-
-
-navbar>li {
-  width: 166,666667px;
-  list-style: none;
-
-}
-
-li>a {
-  display: block;
-  color: black;
-  line-height: 80px;
-  text-align: center;
-  font-family: cursive;
-  font-size: 20px;
-  text-decoration: none;
-  padding: 70px 70px 0px 70px; 
-}
 
 
 #logo {
