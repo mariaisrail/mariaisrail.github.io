@@ -67,7 +67,8 @@ ul li:hover ul li {
     padding: 10px;
     }
     div.niks {
-      width:20%;   
+    margin: auto;
+    width: 50%; 
     }
 
 
