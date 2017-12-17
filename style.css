@@ -55,6 +55,10 @@ ul li:hover ul li {
   display: block;
 } 
 
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
 li.dropdown {
     display: inline-block;
 }
