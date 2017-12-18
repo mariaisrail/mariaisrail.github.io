@@ -16,7 +16,7 @@ header {
   top: 0px;
   left: 0px;
   right: 0px;
-   width: 2200px;
+  width: 2200px;
   background: url("nieuwsteheader.JPG ");
   background-repeat:no-repeat;
 }
@@ -71,6 +71,9 @@ ul li a:hover {
     div.box {
       width:20%;
       float: left;
+      display: block;
+      margin-left: auto;
+      margin-right: auto
 }
 
 
