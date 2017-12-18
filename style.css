@@ -36,8 +36,6 @@ ul {
 
 ul li {
   float: left;
-  width: 200px;
-  height: 40px;
   background-color: black;
   line-height: 40px;
   text-align: center;
