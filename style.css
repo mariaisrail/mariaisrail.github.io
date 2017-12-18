@@ -36,8 +36,8 @@ ul {
 
 ul li {
   float: left;
-  width: 200px
-  height: 40px
+  width: 200px;
+  height: 40px;
   background-color: black;
   opacity: .8;
   line-height: 40px;
@@ -77,6 +77,7 @@ ul li a:hover {
       display: block;
       margin-left: auto;
       margin-right: auto
+      height: 300px;
 }
 
 
