@@ -29,13 +29,14 @@ ul {
   overflow: hidden;
   background-color: #333;
   list-style-type: none;
+  width: 436px;
 }
 
 
 
 ul li {
   float: left;
-  width: 200px
+  width: 436px
   height: 40px
   background-color: black;
   opacity: .8; 
