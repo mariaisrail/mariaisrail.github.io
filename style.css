@@ -16,6 +16,7 @@ header {
   top: 0px;
   left: 0px;
   right: 0px;
+   width: 1000px
   background: url("nieuwsteheader.JPG ");
   background-repeat:no-repeat;
 }
