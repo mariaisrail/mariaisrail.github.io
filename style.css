@@ -12,6 +12,13 @@ body {
 }
 
 
+header {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  background: url("nieuwsteheader.JPG ");
+  background-repeat:no-repeat;
+}
 
 
 ul {
