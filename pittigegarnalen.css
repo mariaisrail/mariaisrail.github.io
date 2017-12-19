@@ -1,14 +1,14 @@
 h1 {
   font-size: 70px;
   text-align : center;
-  color: white;
+  color: black;
 }
 
 
 p {
  font-size: 20px;
  text-align: center;
- color: white;
+ color: black;
 }
 
 
@@ -25,6 +25,16 @@ body {
   text-align: center;
 }
 
+#banner {
+
+position: relative;
+top: 0px;
+left: 0px;
+right: 0px;
+width: 100%;
+height: auto;
+z-index: -1;
+}
 
 ul {
   padding: 0px;
