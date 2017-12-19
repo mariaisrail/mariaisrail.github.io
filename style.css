@@ -130,15 +130,18 @@ ul li:hover ul li {
 }
 
 
-
     div.text {
       background: rgba(0,0,0,0.3);
       width: 59%;
       display: block;
       margin-left: auto;
       margin-right: auto
+
 }
 
+   
+
+    }
 
 
 
@@ -148,8 +151,8 @@ ul li:hover ul li {
       margin-left: auto;
       margin-right: auto
       height: 300px;
-}
 
+}
 
 
 <br> <br> <br> <br>
