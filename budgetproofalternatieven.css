@@ -1,3 +1,13 @@
+
+img {
+  margin: 10px 0px 0px 0px;
+   border: 7px solid black; 
+   border-radius: 20px; 
+
+}
+
+
+
 h1 {
   font-size: 70px;
   text-align : center;
