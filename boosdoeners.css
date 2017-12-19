@@ -39,6 +39,17 @@ body{
   text-align: center;
 }
 
+
+#banner {
+
+position: relative;
+top: 0px;
+left: 0px;
+right: 0px;
+width: 100%;
+height: auto;
+z-index: -1;
+}
   
 h1 {
     font-size: 36px;
