@@ -97,9 +97,7 @@ ul li:hover ul li {
   display: block;
 } 
 
-li.dropdown {
-    display: inline-block;
-}
+
 
 .dropdown-content {
     display: none;
