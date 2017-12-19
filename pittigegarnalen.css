@@ -12,8 +12,11 @@ p {
 }
 
 
-.foto {
+
+img {
   margin: 10px 0px 0px 0px;
+   border: 7px solid black; 
+   border-radius: 20px; 
 
 }
 
@@ -24,16 +27,7 @@ body {
   text-align: center;
 }
 
-#banner {
 
-position: relative;
-top: 0px;
-left: 0px;
-right: 0px;
-width: 100%;
-height: auto;
-z-index: -1;
-}
 
 ul {
   padding: 0px;
