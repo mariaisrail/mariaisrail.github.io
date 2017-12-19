@@ -122,4 +122,25 @@ th, td {
     padding: 8px;
 }
 
+.foto {
+    width: 100%;
+    height: auto;
+}
+
+.foto {
+    padding: 15px;
+    text-align: center;
+    color: black;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.foto {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
 tr:nth-child(even){background-color: #f2f2f2}
