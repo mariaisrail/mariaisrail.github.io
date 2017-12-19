@@ -169,3 +169,23 @@ div.desc {
     display: table;
     clear: both;
 }
+
+    div.text {
+      background: rgba(0,0,0,0.3);
+      width: 59%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto
+
+}
+
+
+
+    div.box {
+      width:20%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto
+      height: 300px;
+
+}
