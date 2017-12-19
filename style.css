@@ -119,3 +119,17 @@ ul li:hover ul li {
 }
 
 
+/* Footer */
+
+#main-footer {
+  padding: 2em;
+  background: #333;
+  color: #FFF;
+  text-align: center;
+}
+
+#main-footer a {
+  color: #ffff;
+  text-decoration: none;
+}
+
