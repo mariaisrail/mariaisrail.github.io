@@ -32,13 +32,12 @@ p {
  margin-left: 70px;
 }
 
-body{
-
-  background: url("https://i0.wp.com/www.dzzyn.com/wp-content/uploads/2016/02/20-FREE-BEAUTIFUL-HI-RES-WOOD-TEXTURE-WALLPAPER-BACKGROUNDS-20-Black-Wood.jpg?fit=1200%2C675");
-  background-size:cover;
+body {
   text-align: center;
-}
+  background: url("https://static.pexels.com/photos/164005/pexels-photo-164005.jpeg");
+  background-size: cover;
 
+}
 
 #banner {
 
