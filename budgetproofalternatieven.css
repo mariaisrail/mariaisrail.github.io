@@ -116,4 +116,5 @@ ul li:hover ul li {
    background-color: #333;
    color: white;
    text-align: center;
+  font-size: 20px;
 }
