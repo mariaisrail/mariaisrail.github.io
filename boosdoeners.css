@@ -177,4 +177,8 @@ div.desc {
    color: white;
    text-align: center;
 }
-  
+  .footer a {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
