@@ -1,4 +1,9 @@
 
+* { 
+  margin: 0px;
+  padding: 0px;
+}
+
 .foto {
   margin: 10px 0px 0px 0px;
    border: 7px solid black; 
